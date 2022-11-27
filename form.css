@@ -1,0 +1,42 @@
+body{
+    border: 1px solid black;
+}
+#container{
+    margin-left: 1em;
+    width: 60em;
+}
+#container1{
+    margin-top: 0.5em;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 25em;
+}
+input:focus{
+    outline: none;
+}
+#student{
+    text-decoration: overline;
+    position: absolute;
+    margin-top: 4em;
+    margin-left: 1em;
+    
+}
+#guardian{
+    text-decoration: overline;
+    position: absolute;
+    margin-left: 45em;
+    margin-top: 3em;
+    
+}
+#dreams{
+    margin-top: 4em;
+}
+img{
+    position: absolute;
+    margin-top: 2em;
+}
+/* #firstname{
+    display: block;
+} */
